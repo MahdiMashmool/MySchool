@@ -1,0 +1,13 @@
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\bin\Debug\netcoreapp3.1\Matrix(+,-,x,).exe
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\bin\Debug\netcoreapp3.1\Matrix(+,-,x,).deps.json
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\bin\Debug\netcoreapp3.1\Matrix(+,-,x,).runtimeconfig.json
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\bin\Debug\netcoreapp3.1\Matrix(+,-,x,).runtimeconfig.dev.json
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\bin\Debug\netcoreapp3.1\Matrix(+,-,x,).dll
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\bin\Debug\netcoreapp3.1\Matrix(+,-,x,).pdb
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).csprojAssemblyReference.cache
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).dll
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).pdb
+C:\Users\Mahdi\Desktop\Matrix(+,-,x,)\Matrix(+,-,x,)\obj\Debug\netcoreapp3.1\Matrix(+,-,x,).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\bin\Debug\netcoreapp3.1\Perimeter and area of the circle.exe
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\bin\Debug\netcoreapp3.1\Perimeter and area of the circle.deps.json
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\bin\Debug\netcoreapp3.1\Perimeter and area of the circle.runtimeconfig.json
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\bin\Debug\netcoreapp3.1\Perimeter and area of the circle.runtimeconfig.dev.json
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\bin\Debug\netcoreapp3.1\Perimeter and area of the circle.dll
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\bin\Debug\netcoreapp3.1\Perimeter and area of the circle.pdb
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.csprojAssemblyReference.cache
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.dll
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.pdb
+C:\Users\Mahdi\Desktop\Perimeter and area of the circle\Perimeter and area of the circle\obj\Debug\netcoreapp3.1\Perimeter and area of the circle.genruntimeconfig.cache
